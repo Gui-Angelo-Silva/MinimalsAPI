@@ -128,3 +128,8 @@ C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\bin\Debug\net8.0\zh-Hant\M
 C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\obj\Debug\net8.0\minimal-api.csproj.AssemblyReference.cache
 C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\obj\Debug\net8.0\minimal-.F3613C90.Up2Date
+C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Documents\CursosDIO\dotnet\minimal-api\obj\Debug\net8.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
