@@ -2,7 +2,7 @@ using System.Data.Common;
 using Microsoft.EntityFrameworkCore;
 using MinimalApi.Dominio.Entidades;
 using MinimalApi.Dominio.Interfaces;
-using MinimalApi.DTOs;
+using MinimalApi.Dominio.DTOs;
 using MinimalApi.Infraestrutura.Db;
 
 namespace MinimalApi.Dominio.Servicos;
