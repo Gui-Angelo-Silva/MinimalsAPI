@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\Test.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\test.csproj": {}
   },
   "projects": {
     "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Api\\minimal-api.csproj": {
@@ -105,12 +105,12 @@
         }
       }
     },
-    "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\Test.csproj": {
+    "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\Test.csproj",
-        "projectName": "Test",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\test.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Aluno\\Documents\\CursosDIO\\dotnet\\minimal-api\\Test\\obj\\",
         "projectStyle": "PackageReference",

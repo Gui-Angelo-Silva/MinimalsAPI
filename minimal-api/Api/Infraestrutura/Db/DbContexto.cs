@@ -5,11 +5,8 @@ namespace MinimalApi.Infraestrutura.Db;
 
 public class DbContexto : DbContext
 {
-    private readonly IConfiguration _configuration;
-
-    public DbContexto(IConfiguration configuration)
+    public DbContexto(DbContextOptions<DbContexto> options) : base(options)
     {
-        _configuration = configuration;
     }
 
     public DbSet<Administrador> Administradores { get; set; } = default!;
@@ -25,14 +22,5 @@ public class DbContexto : DbContext
                 Perfil = "Adm"
             }
         );
-    }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        if (!optionsBuilder.IsConfigured)
-        {
-            var connectionString = _configuration.GetConnectionString("DefaultConnection");
-            optionsBuilder.UseNpgsql(connectionString);
-        }
     }
 }
